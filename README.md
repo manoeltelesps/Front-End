@@ -1,4 +1,4 @@
-# My Front-End Development Repository
+# Front-End Development Repository
 
 This repository contains a collection of my personal projects, tests, and study materials focused on front-end web development. The goal is to centralize examples and practical exercises I've created to help understand essential concepts like HTML structure, CSS styling, responsive design, and more.
 
